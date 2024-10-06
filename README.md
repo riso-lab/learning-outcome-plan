@@ -29,8 +29,10 @@ The following plan is to overcome the challenges and to achieve the expectations
         - Sort google drive folder names into a text file
         - Quiz app to use in classroom
         - Recipe app, weather app, todo app etc.
-3. Understand the use of reusable code
-    - Understand the efficiency of writing reusable code and using libraries
+3. To understand the whys for clean code, reusable code
+    - To be able to write well documented clean code
+    - To understand the efficiency of writing reusable code and using libraries and frameworks
+    - To understand the importance of data and business logic in developement
 
 ## Monitoring and feedback Plan
 
