@@ -43,3 +43,5 @@ To test student's ability to use the internet and tools for learning purpose.
 To test student's efficiency with Microsoft Office applications, especially spreadsheets.
 
 ---
+
+> END TEST
