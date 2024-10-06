@@ -10,8 +10,8 @@
 
 - To produce skilled programmers out of this class.
 - Employer has clear vision of a skilled programmer:
-    Understands data and can handle data manipulation.
-    Understands business logic to produce better code quality.
+    * Understands data and can handle data manipulation.
+    * Understands business logic to produce better code quality.
 - Accepts the way of "vocational class".
 
 ## Learning Outcome Plan
