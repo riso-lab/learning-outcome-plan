@@ -1,4 +1,4 @@
-# RISO Lab Learning Outcome Plan
+# RISO Lab - CS Course Plan
 
 ## Challenges
 
@@ -14,7 +14,7 @@
     2. Understands business logic to produce better code quality.
 - Accepts the way of "vocational class".
 
-## Learning Outcome Plan
+## Learning Outcome
 
 The following plan is to overcome the challenges and to achieve the expectations for this class.
 
